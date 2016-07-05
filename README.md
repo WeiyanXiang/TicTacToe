@@ -1,2 +1,2 @@
 # TicTacToe
-Simple Js implementation on Tic Tac toe
+Simple Js implementation on Tic Tac toe with HTML and CSS. 
